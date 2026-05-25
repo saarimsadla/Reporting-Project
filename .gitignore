@@ -1,0 +1,22 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and output
+files/
+*.csv
+*.html
+*.txt
